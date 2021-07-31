@@ -1,6 +1,7 @@
 # Welcome 🖐 to Maths Addition Quiz Game
 
 This webapp is basically for kids to practice addition.
+https://nisha331.github.io/maths-quiz-game/
 
 ## 💻Tech Stack
 <br>
